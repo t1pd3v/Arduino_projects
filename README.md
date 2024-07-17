@@ -1,1 +1,1 @@
-locales/spanish.md
+detector_de_fuego/README.md
